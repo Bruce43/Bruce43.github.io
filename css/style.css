@@ -1340,7 +1340,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 4px;
   height: 36px;
   width: 36px;
-  font-size: 1.6rem;
+  font-size: 1.1rem;
   line-height: 2.3;
   background-color: rgba(0,0,0,0.1);
   border-radius: 50px;
@@ -1465,7 +1465,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
   .fa {
     display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
+    font: normal normal normal 1px/1 FontAwesome;
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
