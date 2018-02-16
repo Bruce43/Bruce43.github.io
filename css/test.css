@@ -1,0 +1,73 @@
+body{
+
+
+color: #3a3a3a;
+}
+
+
+#sub-footer a.cd-modal-close {
+    background-color: #FF9800;
+}
+
+#me .expertise-block p {
+
+    margin-bottom: 0;
+    line-height: 1.8;
+    font-size: 16px;
+}
+
+.project-showcase .project-content .project-description {
+    margin: 15px 0 28px 0;
+    line-height: 1.6;
+    font-size: 16px;
+}
+.fa{
+    color: #1abd4f
+}
+
+
+
+.h3 {
+    font-size: 4.25rem;
+    color: #1abd4f
+}
+h2{
+    font-size: 18px;
+    color: #1abd4f
+}
+a {
+    color: #13ddb0;
+}
+
+.awesome img {
+    top: 2.5%;
+    display: inline-block;
+    left: 50%;
+    width: 180px;
+    height: auto;
+    padding: 20px;
+    position: absolute;
+    white-space: nowrap;
+    z-index: 2;
+    text-decoration: none;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+img {
+    border-style: none;
+}
+.down img{
+    top: 2.5%;
+    display: inline-block;
+    left: 50%;
+    width: 80px;
+    height: auto;
+    padding: 420px;
+    position: absolute;
+    white-space: nowrap;
+    z-index: 2;
+    text-decoration: none;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
